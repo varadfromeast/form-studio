@@ -34,3 +34,7 @@ npm test
 ```
 
 `npm start` serves a production build on port 3001. The server binds to loopback by default.
+
+## Contributing and license
+
+Contributions are welcome through pull requests. See [CONTRIBUTING.md](CONTRIBUTING.md) for setup and review requirements. This project is released under the [MIT license](LICENSE).
